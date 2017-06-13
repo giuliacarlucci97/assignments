@@ -8,3 +8,5 @@
 [assignment 4](https://github.com/giuliacarlucci97/assignments/blob/master/assignment4.ipynb)
 
 [assignment 5](https://github.com/giuliacarlucci97/assignments/blob/master/assignment5.ipynb)
+
+[final python assignment](https://github.com/giuliacarlucci97/assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
